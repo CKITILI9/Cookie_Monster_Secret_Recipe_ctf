@@ -23,7 +23,10 @@
 - web apps use cookies to manage data.
 - this data is sometimes, not protected.
 - analyzing and testing client side data stored in cookies is important.
+- base64 encoding is not encryption. the text can be decoded easily.
+- base64 is only used to encode and decode binary data into text-based format
 ---
+
 
 
 
